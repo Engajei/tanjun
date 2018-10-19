@@ -1,0 +1,23 @@
+{
+  "name": "tanjun",
+  "version": "0.1.0",
+  "description": "a minimalist framework for API rest with SQL support and no-SQL databases",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://github.com/cleiton-tavares",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "compression": "^1.7.3",
+    "consign": "^0.1.6",
+    "cors": "^2.8.4",
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "helmet": "^3.14.0",
+    "method-override": "^3.0.0",
+    "sequelize": "^4.39.1",
+    "tedious": "^2.6.4"
+  }
+}
