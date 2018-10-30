@@ -1,4 +1,4 @@
-# TANJUN - CLI
+# TANJUN
 
   A minimalist framework for API rest with SQL support and no-SQL databases.
 
